@@ -162,8 +162,11 @@ This dashboard demonstrates strong skills in:
 
 It can be effectively used by:
 
-Cricket analysts
+1.Cricket analysts
 
-Sports enthusiasts
+2.Sports enthusiasts
 
-Decision-makers evaluating team strategies
+3.Decision-makers evaluating team strategies
+
+
+![Dashboard Preview]()
