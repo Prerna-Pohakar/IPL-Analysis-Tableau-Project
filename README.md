@@ -1,15 +1,15 @@
-🏏 IPL Analysis Dashboard – Tableau Project
+**🏏 IPL Analysis Dashboard – Tableau Project**
 
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 This Tableau project provides a comprehensive analysis of Indian Premier League (IPL) data by combining team performance, player achievements, scoring patterns, and the impact of toss decisions on match outcomes.
 The dashboard is designed to deliver quick insights at a glance while also allowing interactive exploration by season and toss decision.
 
 
 
-🎯 Objectives of the Project
+**🎯 Objectives of the Project**
 
 1.To analyze team success trends across IPL seasons
 
@@ -21,7 +21,7 @@ The dashboard is designed to deliver quick insights at a glance while also allow
 
 
 
-📊 Dashboard Components & Explanation
+**📊 Dashboard Components & Explanation**
 
 1️⃣ Title Winner (KPI Card)
 
@@ -134,7 +134,7 @@ Filters & Parameters – For interactivity
 
 
 
-📈 Key Insights Summary
+**📈 Key Insights Summary**
 
 1.Mumbai Indians are the most successful IPL team
 
@@ -146,7 +146,7 @@ Filters & Parameters – For interactivity
 
 
 
-🚀 Conclusion
+**🚀 Conclusion**
 
 This dashboard demonstrates strong skills in:
 
@@ -169,4 +169,4 @@ It can be effectively used by:
 3.Decision-makers evaluating team strategies
 
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Prerna-Pohakar/IPL-Analysis-Tableau-Project/blob/main/IPL%20Analysis%20Tableau.png)
